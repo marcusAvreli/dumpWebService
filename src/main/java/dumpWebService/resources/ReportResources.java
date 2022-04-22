@@ -27,6 +27,7 @@ public class ReportResources {
 	@Consumes({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
 	public List<Report> reportTypeList() {
 		List<Report> reports = new ArrayList<Report>();
+		logger.info("here");
 		Report report = new Report();
 		report.setId("1");
 		report.setName("report1");
