@@ -1,7 +1,0 @@
-dumpWebService\App.class
-dumpWebService\jaxrs\filters\MyCorsFilter.class
-dumpWebService\entity\Report.class
-dumpWebService\ApplicationInitializer.class
-dumpWebService\jaxrs\filters\FilterFactory.class
-dumpWebService\resources\ReportResources.class
-dumpWebService\jaxrs\filters\LoggingResourceFilter.class
